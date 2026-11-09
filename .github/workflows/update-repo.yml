@@ -1,0 +1,43 @@
+name: Update repo.json
+
+on:
+  # Fired by plugin repos right after they publish a release (needs REPO_DISPATCH_TOKEN there).
+  repository_dispatch:
+    types: [plugin-released]
+  # Fallback so releases are picked up even without the dispatch token.
+  schedule:
+    - cron: '*/30 * * * *'
+  push:
+    branches: [main]
+    paths: ['plugins.json', 'scripts/**', '.github/workflows/update-repo.yml']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-repo
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Generate repo.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/generate_repo.py
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet -- repo.json; then
+            echo "repo.json unchanged"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add repo.json
+          git commit -m "Update repo.json"
+          git push

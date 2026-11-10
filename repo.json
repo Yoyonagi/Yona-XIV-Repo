@@ -3,7 +3,7 @@
     "Author": "Yoyonagi",
     "Name": "Yona Toolbox",
     "InternalName": "YonaToolbox",
-    "AssemblyVersion": "0.2.0.0",
+    "AssemblyVersion": "0.3.0.0",
     "Description": "Yona Toolbox is a single plugin that hosts many small modules, all wrapped in a Material Design 3 interface with a customizable accent color and light/dark themes.\r\nOpen it with /yona.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Yoyonagi/Yona-Toolbox",
@@ -21,12 +21,12 @@
     "IconUrl": "https://raw.githubusercontent.com/Yoyonagi/Yona-Toolbox/main/images/icon.png",
     "Punchline": "A Material You home for a growing set of quality-of-life modules.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/Yoyonagi/Yona-Toolbox/releases/download/v0.2.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Yoyonagi/Yona-Toolbox/releases/download/v0.2.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Yoyonagi/Yona-Toolbox/releases/download/v0.2.0/latest.zip",
+    "DownloadLinkInstall": "https://github.com/Yoyonagi/Yona-Toolbox/releases/download/v0.3.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Yoyonagi/Yona-Toolbox/releases/download/v0.3.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Yoyonagi/Yona-Toolbox/releases/download/v0.3.0/latest.zip",
     "IsTestingExclusive": false,
-    "LastUpdate": 1794275983,
-    "DownloadCount": 3,
-    "Changelog": "**Full Changelog**: https://github.com/Yoyonagi/Yona-Toolbox/compare/v0.1.0...v0.2.0"
+    "LastUpdate": 1794304580,
+    "DownloadCount": 4,
+    "Changelog": "**Full Changelog**: https://github.com/Yoyonagi/Yona-Toolbox/compare/v0.2.0...v0.3.0"
   }
 ]

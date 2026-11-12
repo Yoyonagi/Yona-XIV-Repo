@@ -26,7 +26,7 @@
     "DownloadLinkTesting": "https://github.com/Yoyonagi/Yona-Notepad/releases/download/v0.1.0/latest.zip",
     "IsTestingExclusive": false,
     "LastUpdate": 1794511450,
-    "DownloadCount": 0,
+    "DownloadCount": 1,
     "Changelog": "**Full Changelog**: https://github.com/Yoyonagi/Yona-Notepad/commits/v0.1.0"
   },
   {
@@ -56,7 +56,7 @@
     "DownloadLinkTesting": "https://github.com/Yoyonagi/Yona-Gamba/releases/download/v0.1.0/latest.zip",
     "IsTestingExclusive": false,
     "LastUpdate": 1794511758,
-    "DownloadCount": 0,
+    "DownloadCount": 1,
     "Changelog": "**Full Changelog**: https://github.com/Yoyonagi/Yona-Gamba/commits/v0.1.0"
   }
 ]

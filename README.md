@@ -16,7 +16,8 @@ A custom [Dalamud](https://github.com/goatcorp/Dalamud) plugin repository for Yo
 
 | Plugin | Source |
 | --- | --- |
-| Yona Toolbox | [Yoyonagi/Yona-Toolbox](https://github.com/Yoyonagi/Yona-Toolbox) |
+| Yona Notepad | [Yoyonagi/Yona-Notepad](https://github.com/Yoyonagi/Yona-Notepad) |
+| Yona Gamba | [Yoyonagi/Yona-Gamba](https://github.com/Yoyonagi/Yona-Gamba) |
 
 ## How it works
 
@@ -40,7 +41,7 @@ Add an entry to `plugins.json`:
 ```
 
 The plugin's releases must contain `latest.zip` and `<InternalName>.json`, which the
-Yona Toolbox build workflow already produces — copy it as a starting point.
+Yona Notepad build workflow already produces — copy it as a starting point.
 
 > GitHub pauses scheduled workflows in repositories with no activity for 60 days. If that
 > happens, re-enable it from the Actions tab or rely on the release dispatch.

@@ -1,7 +1,12 @@
 [
   {
-    "repo": "Yoyonagi/Yona-Toolbox",
-    "internalName": "YonaToolbox",
-    "iconUrl": "https://raw.githubusercontent.com/Yoyonagi/Yona-Toolbox/main/images/icon.png"
+    "repo": "Yoyonagi/Yona-Notepad",
+    "internalName": "YonaNotepad",
+    "iconUrl": "https://raw.githubusercontent.com/Yoyonagi/Yona-Notepad/main/images/icon.png"
+  },
+  {
+    "repo": "Yoyonagi/Yona-Gamba",
+    "internalName": "YonaGamba",
+    "iconUrl": "https://raw.githubusercontent.com/Yoyonagi/Yona-Gamba/main/images/icon.png"
   }
 ]

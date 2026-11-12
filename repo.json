@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "Author": "Yoyonagi",
+    "Name": "Yona Notepad",
+    "InternalName": "YonaNotepad",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "Yona Notepad keeps one Markdown note per duty and opens it when you enter the instance, plus general notes for everything else. Notes are plain .md files with a quick link to the Console Games Wiki.\r\nOpen it with /ynotepad, or toggle the note window with /ynotes.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Yoyonagi/Yona-Notepad",
+    "Tags": [
+      "notes",
+      "markdown",
+      "duty",
+      "wiki"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/Yoyonagi/Yona-Notepad/main/images/icon.png",
+    "Punchline": "Markdown notes for every duty, opened when you walk in.",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/Yoyonagi/Yona-Notepad/releases/download/v0.1.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Yoyonagi/Yona-Notepad/releases/download/v0.1.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Yoyonagi/Yona-Notepad/releases/download/v0.1.0/latest.zip",
+    "IsTestingExclusive": false,
+    "LastUpdate": 1794511450,
+    "DownloadCount": 0,
+    "Changelog": "**Full Changelog**: https://github.com/Yoyonagi/Yona-Notepad/commits/v0.1.0"
+  },
+  {
+    "Author": "Yoyonagi",
+    "Name": "Yona Gamba",
+    "InternalName": "YonaGamba",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "Yona Gamba is a pair of card games to pass the time: Blackjack and Higher or Lower. They use play chips only: no gil, and nothing is sent to the game or to other players.\r\nOpen it with /ygamba.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Yoyonagi/Yona-Gamba",
+    "Tags": [
+      "minigame",
+      "cards",
+      "blackjack",
+      "fun"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/Yoyonagi/Yona-Gamba/main/images/icon.png",
+    "Punchline": "Blackjack and Higher or Lower with play chips, for the queue.",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/Yoyonagi/Yona-Gamba/releases/download/v0.1.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Yoyonagi/Yona-Gamba/releases/download/v0.1.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Yoyonagi/Yona-Gamba/releases/download/v0.1.0/latest.zip",
+    "IsTestingExclusive": false,
+    "LastUpdate": 1794511758,
+    "DownloadCount": 0,
+    "Changelog": "**Full Changelog**: https://github.com/Yoyonagi/Yona-Gamba/commits/v0.1.0"
+  }
+]

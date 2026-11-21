@@ -8,5 +8,10 @@
     "repo": "Yoyonagi/Yona-Gamba",
     "internalName": "YonaGamba",
     "iconUrl": "https://raw.githubusercontent.com/Yoyonagi/Yona-Gamba/main/images/icon.png"
+  },
+  {
+    "repo": "Yoyonagi/Yona-Now-Playing",
+    "internalName": "YonaNowPlaying",
+    "iconUrl": "https://raw.githubusercontent.com/Yoyonagi/Yona-Now-Playing/main/images/icon.png"
   }
 ]

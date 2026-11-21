@@ -18,6 +18,7 @@ A custom [Dalamud](https://github.com/goatcorp/Dalamud) plugin repository for Yo
 | --- | --- |
 | Yona Notepad | [Yoyonagi/Yona-Notepad](https://github.com/Yoyonagi/Yona-Notepad) |
 | Yona Gamba | [Yoyonagi/Yona-Gamba](https://github.com/Yoyonagi/Yona-Gamba) |
+| Yona Now Playing | [Yoyonagi/Yona-Now-Playing](https://github.com/Yoyonagi/Yona-Now-Playing) |
 
 ## How it works
 

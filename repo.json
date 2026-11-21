@@ -63,8 +63,8 @@
     "Author": "Yoyonagi",
     "Name": "Yona Now Playing",
     "InternalName": "YonaNowPlaying",
-    "AssemblyVersion": "0.1.0.0",
-    "Description": "Yona Now Playing connects the Qobuz desktop app to Honorific. While a track is playing, your title is swapped for the song (for example \"♪ Song name\"); pause or close Qobuz and your normal Honorific title comes back.\r\nRequires Honorific. Open the settings with /ynowplaying.",
+    "AssemblyVersion": "0.1.1.0",
+    "Description": "Yona Now Playing connects the Qobuz desktop app to Honorific. While a track is playing, your title is swapped for the artist and song (for example \"Hamza - KYKY2BONDY\"); pause or close Qobuz and your normal Honorific title comes back.\r\nRequires Honorific. Open the settings with /ynowplaying.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Yoyonagi/Yona-Now-Playing",
     "Tags": [
@@ -82,12 +82,12 @@
     "IconUrl": "https://raw.githubusercontent.com/Yoyonagi/Yona-Now-Playing/main/images/icon.png",
     "Punchline": "Your Honorific title shows the Qobuz track you're listening to.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/Yoyonagi/Yona-Now-Playing/releases/download/v0.1.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Yoyonagi/Yona-Now-Playing/releases/download/v0.1.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Yoyonagi/Yona-Now-Playing/releases/download/v0.1.0/latest.zip",
+    "DownloadLinkInstall": "https://github.com/Yoyonagi/Yona-Now-Playing/releases/download/v0.1.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Yoyonagi/Yona-Now-Playing/releases/download/v0.1.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Yoyonagi/Yona-Now-Playing/releases/download/v0.1.1/latest.zip",
     "IsTestingExclusive": false,
-    "LastUpdate": 1795292252,
+    "LastUpdate": 1795292676,
     "DownloadCount": 0,
-    "Changelog": "**Full Changelog**: https://github.com/Yoyonagi/Yona-Now-Playing/commits/v0.1.0"
+    "Changelog": "**Full Changelog**: https://github.com/Yoyonagi/Yona-Now-Playing/compare/v0.1.0...v0.1.1"
   }
 ]

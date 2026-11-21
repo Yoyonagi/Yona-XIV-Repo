@@ -58,5 +58,36 @@
     "LastUpdate": 1794511758,
     "DownloadCount": 2,
     "Changelog": "**Full Changelog**: https://github.com/Yoyonagi/Yona-Gamba/commits/v0.1.0"
+  },
+  {
+    "Author": "Yoyonagi",
+    "Name": "Yona Now Playing",
+    "InternalName": "YonaNowPlaying",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "Yona Now Playing connects the Qobuz desktop app to Honorific. While a track is playing, your title is swapped for the song (for example \"♪ Song name\"); pause or close Qobuz and your normal Honorific title comes back.\r\nRequires Honorific. Open the settings with /ynowplaying.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Yoyonagi/Yona-Now-Playing",
+    "Tags": [
+      "honorific",
+      "title",
+      "music",
+      "qobuz",
+      "now playing"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/Yoyonagi/Yona-Now-Playing/main/images/icon.png",
+    "Punchline": "Your Honorific title shows the Qobuz track you're listening to.",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/Yoyonagi/Yona-Now-Playing/releases/download/v0.1.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Yoyonagi/Yona-Now-Playing/releases/download/v0.1.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Yoyonagi/Yona-Now-Playing/releases/download/v0.1.0/latest.zip",
+    "IsTestingExclusive": false,
+    "LastUpdate": 1795292252,
+    "DownloadCount": 0,
+    "Changelog": "**Full Changelog**: https://github.com/Yoyonagi/Yona-Now-Playing/commits/v0.1.0"
   }
 ]
